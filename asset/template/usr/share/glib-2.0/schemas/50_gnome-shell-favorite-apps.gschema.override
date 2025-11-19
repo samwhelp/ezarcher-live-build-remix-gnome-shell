@@ -1,0 +1,10 @@
+
+
+[org.gnome.shell]
+favorite-apps=['org.gnome.Nautilus.desktop', 'org.gnome.TextEditor.desktop', 'firefox.desktop', 'org.gnome.Console.desktop', 'org.gnome.Settings.desktop', 'org.gnome.tweaks.desktop', 'org.gnome.Extensions.desktop', 'toggle-show-desktop.desktop']
+
+
+[org.gnome.desktop.default-applications.terminal]
+exec='kgx'
+exec-arg='-x'
+
